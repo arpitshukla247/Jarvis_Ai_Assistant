@@ -1,9 +1,4 @@
-# music = {
-#     ,
-#     "march": "https://www.youtube.com/watch?v=Xqeq4b5u_Xw",
-#    
-#     "wolf": "https://www.youtube.com/watch?v=ThCH0U6aJpU&list=PLnrGi_-oOR6wm0Vi-1OsiLiV5ePSPs9oF&index=21"
-# }
+
 music = {
      "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI&pp=ygUHc2t5ZmFsbA%3D%3D",
     "prada":            "https://www.youtube.com/watch?v=PjTU0DmBWiU&list=RDPjTU0DmBWiU&start_radio=1&pp=ygUFcHJhZGGgBwE%3D",
@@ -11,3 +6,4 @@ music = {
     "sorry":          "https://www.youtube.com/watch?v=fRh_vgS2dFE&list=RDfRh_vgS2dFE&start_radio=1&pp=ygUTc29ycnkganVzdGluIGJpZWJlcqAHAQ%3D%3D",
     "baby": "https://www.youtube.com/watch?v=kffacxfA7G4&list=RDfRh_vgS2dFE&index=9&pp=8AUB"
 }
+
